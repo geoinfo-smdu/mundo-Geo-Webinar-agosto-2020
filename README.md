@@ -8,7 +8,7 @@ A publicação LiDAR 3D da cidade de São Paulo levou em conta a diversidade de 
 
 ## Materiais e métodos
 
-Para a apresentação utilizamos Pytho através do Jupyter Notebook para sequencialmente seguirmos apresentando as possibildiades de acesso aos dados LiDAR 3D publicados da Cidade de São Paulo. 
+Para a apresentação utilizamos Python através do Jupyter Notebook para, sequencialmente, seguirmos apresentando as possibildiades de acesso aos dados LiDAR 3D publicados da Cidade de São Paulo. 
 
 ## Como contribuir
 
