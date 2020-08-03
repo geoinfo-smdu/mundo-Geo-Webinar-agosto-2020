@@ -12,6 +12,6 @@ Para a apresentação utilizamos Pytho através do Jupyter Notebook para sequenc
 
 ## Como contribuir
 
-A apresnetação é só um ensejo para estabelecermos um vínculo e estabelecer um diálogo para prosseguir o aprendizado contínuo e multi-lateral. Para tanto a licença de uso é livre, e portanto é possível, copiar, reproduzir, alterar, sugerir modificações, além de abrir 'Issues' e comentar com dúvidas, críticas, sugestões e contribuições.
+A apresentação é só um ensejo para estabelecermos um vínculo e um diálogo para o aprendizado contínuo e multi-lateral. Para tanto a licença de uso é livre, e portanto é possível, copiar, reproduzir, alterar, sugerir modificações, além de abrir 'Issues' e comentar com dúvidas, críticas, sugestões e contribuições.
 
 Além disso, gostamos muito saber os usos realizados com os dados bertos publicados. Conta aqui pra gente.
